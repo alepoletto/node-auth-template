@@ -2,7 +2,7 @@
 
 this is a template for node apps using jwt for auth. I uses passport as authentication middleware (local and jwt strategies for now), MongoDB with Mongoose for persistence and bcryptjs to hash and salt the passwords.
 
-##Instalation
+## Instalation
 
 clone this repo renaming it for wherever you want ex:
 
